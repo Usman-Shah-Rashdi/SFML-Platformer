@@ -1,0 +1,16 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/projects collection/platformer/build/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/src/SFML/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/src/SFML/System/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/src/SFML/Main/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/src/SFML/Window/cmake_install.cmake",
+		"D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics/cmake_install.cmake",
+		"D:/projects collection/platformer/build/_deps/freetype-build/cmake_install.cmake",
+		"D:/projects collection/platformer/build/_deps/harfbuzz-build/cmake_install.cmake",
+		"D:/projects collection/platformer/build/_deps/sheenbidi-build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

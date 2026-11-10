@@ -1,0 +1,21 @@
+# ninja log v7
+78	759	8086752525898621	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Version.cpp.obj	14f48d43e459d6d7
+34	842	8086752525478029	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj	bc5e91015832dd6
+48	898	8086752525599409	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj	cf6ac4ec131af535
+92	1124	8086752526039676	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj	5341731ee73bdbe9
+42	1359	8086752525545886	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj	a027ab290f77f762
+60	1803	8086752525729073	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/TimeoutWithPredicate.cpp.obj	eea5c75bb811f9b
+1381	2053	8086752539098803	_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftdebug.c.obj	bbf87a566c0fd73c
+960	2073	8086752535258893	_deps/freetype-build/CMakeFiles/freetype.dir/src/smooth/smooth.c.obj	9962a9767cc34466
+69	2636	8086752525818826	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.obj	f8d94a9cc9c379ba
+85	2727	8086752525969864	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj	90d879d82a7bff07
+874	2771	8086752534016554	_deps/freetype-build/CMakeFiles/freetype.dir/src/pfr/pfr.c.obj	703eadc23f9712d7
+115	3082	8086752526650519	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj	c5b19552308e0520
+1147	3295	8086752536717411	_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftsystem.c.obj	34ba6bfda2510b6e
+2057	3549	8086752545738483	libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj	cf5e6bdb532c2522
+2778	3910	8086752553297800	libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj	1b6b03f5160fbe0
+2089	4171	8086752546005084	libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj	193423a42c806a1a
+2663	4361	8086752551760180	libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj	345499490b87982b
+2760	6642	8086752552715784	libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj	e018973d732647a0
+53	8016	8086752525649284	libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj	758d697f1652905a
+782	11225	8086752533135742	_deps/freetype-build/CMakeFiles/freetype.dir/Unity/unity_0_c.c.obj	f46206dbd41d3324

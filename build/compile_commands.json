@@ -1,0 +1,434 @@
+[
+{
+  "directory": "D:/projects collection/platformer/build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC @CMakeFiles\\platformer.dir\\includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\platformer.dir\\src\\main.cpp.obj -c \"D:\\projects collection\\platformer\\src\\main.cpp\"",
+  "file": "D:/projects collection/platformer/src/main.cpp",
+  "output": "CMakeFiles/platformer.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Clock.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Clock.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Clock.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Clock.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Err.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Err.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Err.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Err.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Sleep.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Sleep.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Sleep.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Sleep.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\String.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\String.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/String.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/String.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\TimeoutWithPredicate.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\TimeoutWithPredicate.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/TimeoutWithPredicate.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/TimeoutWithPredicate.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Utils.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Utils.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Utils.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Utils.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Version.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Version.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Version.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Version.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\FileInputStream.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\FileInputStream.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/FileInputStream.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/FileInputStream.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\MemoryInputStream.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\MemoryInputStream.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/MemoryInputStream.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/MemoryInputStream.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/System",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-system.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-system.dir\\Win32\\SleepImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\System\\Win32\\SleepImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/System/Win32/SleepImpl.cpp",
+  "output": "libs/SFML/src/SFML/System/CMakeFiles/sfml-system.dir/Win32/SleepImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Main",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-main.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-main.dir\\MainWin32.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Main\\MainWin32.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Main/MainWin32.cpp",
+  "output": "libs/SFML/src/SFML/Main/CMakeFiles/sfml-main.dir/MainWin32.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Clipboard.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Clipboard.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Clipboard.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Clipboard.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Context.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Context.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Context.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Context.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Cursor.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Cursor.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Cursor.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Cursor.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\GlContext.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\GlContext.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/GlContext.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlContext.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\GlResource.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\GlResource.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/GlResource.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/GlResource.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Joystick.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Joystick.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Joystick.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Joystick.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\JoystickManager.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\JoystickManager.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/JoystickManager.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/JoystickManager.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Keyboard.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Keyboard.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Keyboard.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Keyboard.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Mouse.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Mouse.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Mouse.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Mouse.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Touch.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Touch.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Touch.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Touch.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Sensor.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Sensor.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Sensor.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Sensor.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\SensorManager.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\SensorManager.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/SensorManager.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/SensorManager.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\VideoMode.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\VideoMode.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/VideoMode.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/VideoMode.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Vulkan.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Vulkan.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Vulkan.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Vulkan.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Window.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Window.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Window.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Window.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\WindowBase.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\WindowBase.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/WindowBase.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowBase.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\WindowImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\WindowImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/WindowImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/WindowImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\CursorImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\CursorImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/CursorImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/CursorImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\ClipboardImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\ClipboardImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/ClipboardImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/ClipboardImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\InputImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\InputImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/InputImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/InputImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\JoystickImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\JoystickImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/JoystickImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/JoystickImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\SensorImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\SensorImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/SensorImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/SensorImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\VideoModeImpl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\VideoModeImpl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/VideoModeImpl.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VideoModeImpl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\VulkanImplWin32.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\VulkanImplWin32.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/VulkanImplWin32.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/VulkanImplWin32.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\WindowImplWin32.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\WindowImplWin32.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/WindowImplWin32.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WindowImplWin32.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Window",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-window.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-window.dir\\Win32\\WglContext.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Window\\Win32\\WglContext.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Window/Win32/WglContext.cpp",
+  "output": "libs/SFML/src/SFML/Window/CMakeFiles/sfml-window.dir/Win32/WglContext.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\BlendMode.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\BlendMode.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/BlendMode.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/BlendMode.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Font.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Font.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Font.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Font.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Glsl.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Glsl.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Glsl.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Glsl.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\GLCheck.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\GLCheck.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/GLCheck.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLCheck.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\GLExtensions.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\GLExtensions.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/GLExtensions.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/GLExtensions.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -fno-strict-aliasing -o CMakeFiles\\sfml-graphics.dir\\Image.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Image.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Image.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Image.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderStates.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderStates.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderStates.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderStates.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderTexture.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderTexture.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderTexture.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTexture.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderTarget.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderTarget.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderTarget.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTarget.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderWindow.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderWindow.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderWindow.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderWindow.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Shader.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Shader.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Shader.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shader.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\StencilMode.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\StencilMode.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/StencilMode.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/StencilMode.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Texture.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Texture.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Texture.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Texture.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\TextureSaver.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\TextureSaver.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/TextureSaver.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/TextureSaver.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Transform.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Transform.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Transform.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transform.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Transformable.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Transformable.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Transformable.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Transformable.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\View.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\View.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/View.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/View.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Shape.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Shape.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Shape.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Shape.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\CircleShape.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\CircleShape.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/CircleShape.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/CircleShape.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RectangleShape.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RectangleShape.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RectangleShape.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RectangleShape.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\ConvexShape.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\ConvexShape.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/ConvexShape.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/ConvexShape.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Sprite.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Sprite.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Sprite.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Sprite.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\Text.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\Text.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/Text.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/Text.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\VertexArray.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\VertexArray.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/VertexArray.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexArray.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\VertexBuffer.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\VertexBuffer.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/VertexBuffer.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/VertexBuffer.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplFBO.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderTextureImplFBO.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderTextureImplFBO.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplFBO.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/libs/SFML/src/SFML/Graphics",
+  "command": "C:\\mingw64\\bin\\g++.exe -DSFML_STATIC -DSTBI_FAILURE_USERMSG -D_CRT_SECURE_NO_WARNINGS -D_WINSOCK_DEPRECATED_NO_WARNINGS @CMakeFiles\\sfml-graphics.dir\\includes_CXX.rsp -g -std=gnu++17 -fvisibility=hidden -fno-keep-inline-dllexport -Wall -Wextra -Wshadow -Wnon-virtual-dtor -Wcast-align -Wunused -Woverloaded-virtual -Wconversion -Wsign-conversion -Wdouble-promotion -Wformat=2 -Wimplicit-fallthrough -Wsuggest-override -Wnull-dereference -Wold-style-cast -Wpedantic -Wmisleading-indentation -Wduplicated-cond -Wlogical-op -Wduplicated-branches -Winvalid-utf8 -fexec-charset=UTF-8 -finput-charset=UTF-8 -o CMakeFiles\\sfml-graphics.dir\\RenderTextureImplDefault.cpp.obj -c \"D:\\projects collection\\platformer\\libs\\SFML\\src\\SFML\\Graphics\\RenderTextureImplDefault.cpp\"",
+  "file": "D:/projects collection/platformer/libs/SFML/src/SFML/Graphics/RenderTextureImplDefault.cpp",
+  "output": "libs/SFML/src/SFML/Graphics/CMakeFiles/sfml-graphics.dir/RenderTextureImplDefault.cpp.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -g -w -o CMakeFiles\\freetype.dir\\Unity\\unity_0_c.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\freetype-build\\CMakeFiles\\freetype.dir\\Unity\\unity_0_c.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/freetype-build/CMakeFiles/freetype.dir/Unity/unity_0_c.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/Unity/unity_0_c.c.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -g -w -o CMakeFiles\\freetype.dir\\src\\pfr\\pfr.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\freetype-src\\src\\pfr\\pfr.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/freetype-src/src/pfr/pfr.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/pfr/pfr.c.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -g -w -o CMakeFiles\\freetype.dir\\src\\smooth\\smooth.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\freetype-src\\src\\smooth\\smooth.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/freetype-src/src/smooth/smooth.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/src/smooth/smooth.c.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -g -w -o CMakeFiles\\freetype.dir\\builds\\windows\\ftsystem.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\freetype-src\\builds\\windows\\ftsystem.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/freetype-src/builds/windows/ftsystem.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftsystem.c.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/freetype-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DFT2_BUILD_LIBRARY -D_CRT_NONSTDC_NO_WARNINGS -D_CRT_SECURE_NO_WARNINGS @CMakeFiles\\freetype.dir\\includes_C.rsp -g -w -o CMakeFiles\\freetype.dir\\builds\\windows\\ftdebug.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\freetype-src\\builds\\windows\\ftdebug.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/freetype-src/builds/windows/ftdebug.c",
+  "output": "_deps/freetype-build/CMakeFiles/freetype.dir/builds/windows/ftdebug.c.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/harfbuzz-build",
+  "command": "C:\\mingw64\\bin\\g++.exe -DHAVE_ATEXIT -DHAVE_FREETYPE=1 -DHAVE_GETPAGESIZE -DHAVE_ISATTY -DHAVE_MPROTECT -DHAVE_PTHREAD -DHAVE_STDBOOL_H -DHAVE_UNISTD_H -DHB_DISABLE_DEPRECATED -DHB_NO_ATEXIT -DHB_NO_BITMAP -DHB_NO_BORING_EXPANSION -DHB_NO_BUFFER_MESSAGE -DHB_NO_BUFFER_SERIALIZE -DHB_NO_BUFFER_VERIFY -DHB_NO_DRAW -DHB_NO_ERRNO -DHB_NO_GETENV -DHB_NO_MT -DHB_NO_PAINT -DHB_NO_SETLOCALE -DHB_OPTIMIZE_SIZE @CMakeFiles\\harfbuzz.dir\\includes_CXX.rsp  -fno-rtti -fno-exceptions -fno-threadsafe-statics -std=c++11 -g -std=gnu++11 -fno-keep-inline-dllexport -Wa,-mbig-obj -w -o CMakeFiles\\harfbuzz.dir\\src\\harfbuzz.cc.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\harfbuzz-src\\src\\harfbuzz.cc\"",
+  "file": "D:/projects collection/platformer/build/_deps/harfbuzz-src/src/harfbuzz.cc",
+  "output": "_deps/harfbuzz-build/CMakeFiles/harfbuzz.dir/src/harfbuzz.cc.obj"
+},
+{
+  "directory": "D:/projects collection/platformer/build/_deps/sheenbidi-build",
+  "command": "C:\\mingw64\\bin\\gcc.exe -DSB_CONFIG_UNITY @CMakeFiles\\SheenBidi.dir\\includes_C.rsp -g -w -o CMakeFiles\\SheenBidi.dir\\Source\\SheenBidi.c.obj -c \"D:\\projects collection\\platformer\\build\\_deps\\sheenbidi-src\\Source\\SheenBidi.c\"",
+  "file": "D:/projects collection/platformer/build/_deps/sheenbidi-src/Source/SheenBidi.c",
+  "output": "_deps/sheenbidi-build/CMakeFiles/SheenBidi.dir/Source/SheenBidi.c.obj"
+}
+]

@@ -1,0 +1,38 @@
+﻿  main.cpp
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,30): warning C4244:         with
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,30): warning C4244:         [
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,30): warning C4244:             T=float
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,30): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,25): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,25): warning C4244:         with
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,25): warning C4244:         [
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,25): warning C4244:             T=float
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(22,25): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,42): warning C4244:         with
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,42): warning C4244:         [
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,42): warning C4244:             T=float
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,42): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,36): warning C4244:         with
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,36): warning C4244:         [
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,36): warning C4244:             T=float
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\Tile.h(26,36): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\TileManager.h(50,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\N TECH\source\repos\raylib platformer\raylib platformer\TileManager.h(50,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  raylib platformer.vcxproj -> C:\Users\N TECH\source\repos\raylib platformer\x64\Debug\raylib platformer.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
