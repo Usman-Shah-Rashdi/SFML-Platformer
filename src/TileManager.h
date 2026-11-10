@@ -25,7 +25,7 @@ public:
             std::cerr << "Failed to load texture image" << std::endl;
         }
         sprite.setTexture(texture);
-        sprite.setPosition(0, 0);
+        sprite.setPosition({0.f, 0.f});
 
         Image bg;
         if (!bg.loadFromFile("mapcollision.png")) {
@@ -44,7 +44,8 @@ public:
 
                 int centerX = pixelX + tileSize / 2;
                 int centerY = pixelY + tileSize / 2;
-                sf::Color tileColor = bg.getPixel(centerX, centerY);
+                sf::Color tileColor = bg.getPixel({static_cast<unsigned int>(centerX),
+                    static_cast<unsigned int>(centerY)});
 
                 if (tileColor != Color(0, 0, 0, 0)) {
                     tiles[i][j] = Tile(pixelX, pixelY, tileSize, player);
@@ -53,10 +54,10 @@ public:
                     if (tileColor == sf::Color(255, 0, 0, 128)) {
                         tiles[i][j].isDeathTile = true;
                         tiles[i][j].solid = false;
-                        tiles[i][j].hitBox.left += 8;
-                        tiles[i][j].hitBox.top += 8;
-                        tiles[i][j].hitBox.width *= 0.5;
-                        tiles[i][j].hitBox.height *= 0.5;
+                        tiles[i][j].hitBox.position.x += 8;
+                        tiles[i][j].hitBox.position.y += 8;
+                        tiles[i][j].hitBox.size.x *= 0.5f;
+                        tiles[i][j].hitBox.size.y *= 0.5f;
                         deathTiles.push_back(tiles[i][j].hitBox);
                     }
                 }
@@ -73,7 +74,7 @@ public:
                     if (j > startCol) {
                         FloatRect mergedRect = tiles[i][startCol].hitBox;
                         for (int k = startCol + 1; k < j; ++k) {
-                            mergedRect.width += tiles[i][k].hitBox.width;
+                            mergedRect.size.x += tiles[i][k].hitBox.size.x;
                         }
                         solidTiles.push_back(mergedRect);
                     }
@@ -88,41 +89,41 @@ public:
     void checkCollisions() {
         for (int i = 0; i < solidTiles.size(); i++) {
             FloatRect playerRect = player->shape.getGlobalBounds();
-            playerRect.width += 5; 
+            playerRect.size.x += 5;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingRight = true;
             }
-            playerRect.width -= 5;
+            playerRect.size.x -= 5;
 
-            playerRect.left -= 5; 
+            playerRect.position.x -= 5;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingLeft = true;
             }
-            playerRect.left += 5;
+            playerRect.position.x += 5;
 
-            playerRect.top -= 6; 
+            playerRect.position.y -= 6;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingUp = true;
             }
-            playerRect.top += 6;
+            playerRect.position.y += 6;
 
-            playerRect.top -= 4; 
+            playerRect.position.y -= 4;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingUp = true;
             }
-            playerRect.top += 4;
+            playerRect.position.y += 4;
 
-            playerRect.height += 4; 
+            playerRect.size.y += 4;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingDown = true;
             }
-            playerRect.height -= 4;
+            playerRect.size.y -= 4;
 
-            playerRect.height += 2; 
+            playerRect.size.y += 2;
             if (solidTiles[i].intersects(playerRect)) {
                 player->collidingDown = true;
             }
-            playerRect.height -= 2;
+            playerRect.size.y -= 2;
         }
 
         for (int i = 0; i < deathTiles.size(); i++) {

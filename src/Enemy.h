@@ -19,7 +19,7 @@ public:
     Enemy(float x, float y, float speed) : movespeed(speed), movingRight(true) {
         shape.setSize(Vector2f(10.0f, 10.0f)); // Example size
         shape.setFillColor(Color::Red); // Default color of the enemy
-        shape.setPosition(x, y);
+        shape.setPosition({x, y});
         pos = { x, y };
     }
 

@@ -52,8 +52,9 @@ int main() {
 	bgMusic.setLoop(true);
 	bgMusic.play();
 	
-	RenderWindow window(VideoMode(width,height), "game of thorns");
-	View camera(sf::FloatRect(0.f, 0.f, 800.f, 600.f));
+	RenderWindow window(VideoMode({static_cast<unsigned int>(width),
+		static_cast<unsigned int>(height)}), "game of thorns");
+	View camera(sf::FloatRect({0.f, 0.f}, {800.f, 600.f}));
 
 	window.setVerticalSyncEnabled(true);
 
@@ -68,11 +69,9 @@ int main() {
 
 
 	while(window.isOpen()){
-		Event ev;
-
-		while (window.pollEvent(ev))
+		while (const auto event = window.pollEvent())
 		{
-			if (ev.type == Event::Closed)
+			if (event->is<Event::Closed>())
 			{
 				saveGame(player);
 				window.close();

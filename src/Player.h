@@ -9,12 +9,12 @@ using namespace sf;
 using namespace std;
 class Player {
 public:
-    Sprite WalkRight;
-    Sprite IdleSprite;
-    Sprite Attacksprite;
     Texture Walk1;
     Texture Idle;
     Texture Attack;
+    Sprite WalkRight{Walk1};
+    Sprite IdleSprite{Idle};
+    Sprite Attacksprite{Attack};
     RectangleShape shape;
     Vector2f pos;
     Vector2f vel;
@@ -40,7 +40,7 @@ public:
         jumpTime = seconds(0.2f);
         shape.setSize(Vector2f(size, size));
         shape.setFillColor(color);
-        shape.setPosition(x, y);
+        shape.setPosition({x, y});
   
 
         pos = { x, y };
@@ -62,16 +62,16 @@ public:
 
 
         WalkRight.setTexture(Walk1);
-        WalkRight.setScale(0.5, 0.5);
-        WalkRight.setOrigin(48, 48);
+        WalkRight.setScale({0.5f, 0.5f});
+        WalkRight.setOrigin({48.f, 48.f});
 
         IdleSprite.setTexture(Idle);
-        IdleSprite.setScale(0.5, 0.5);
-        IdleSprite.setOrigin(48, 48);
+        IdleSprite.setScale({0.5f, 0.5f});
+        IdleSprite.setOrigin({48.f, 48.f});
 
         Attacksprite.setTexture(Attack);
-        Attacksprite.setScale(0.5, 0.5);
-        Attacksprite.setOrigin(48, 48);
+        Attacksprite.setScale({0.5f, 0.5f});
+        Attacksprite.setOrigin({48.f, 48.f});
 
 
         // Initialize the walking animation (assuming 4 frames per row)
@@ -115,20 +115,20 @@ public:
         
         isIdle = !isAttacking;
 
-        if (Keyboard::isKeyPressed(Keyboard::Left) || Keyboard::isKeyPressed(Keyboard::A)) {
+        if (Keyboard::isKeyPressed(Keyboard::Key::Left) || Keyboard::isKeyPressed(Keyboard::Key::A)) {
              isIdle = false;
             if (!collidingLeft) vel.x = -movespeed;
-            WalkRight.setScale(-0.5, 0.5);
+            WalkRight.setScale({-0.5f, 0.5f});
             WalkAnimation.update();
         }
-        if (Keyboard::isKeyPressed(Keyboard::Right) || Keyboard::isKeyPressed(Keyboard::D)) {
+        if (Keyboard::isKeyPressed(Keyboard::Key::Right) || Keyboard::isKeyPressed(Keyboard::Key::D)) {
             isIdle = false;
             if (!collidingRight) vel.x = movespeed;
-            WalkRight.setScale(0.5, 0.5);
+            WalkRight.setScale({0.5f, 0.5f});
             WalkAnimation.update(); // Update walking animation
         }
 
-        if (Keyboard::isKeyPressed(Keyboard::Up) || Keyboard::isKeyPressed(Keyboard::W)|| Keyboard::isKeyPressed(Keyboard::Space)) {
+        if (Keyboard::isKeyPressed(Keyboard::Key::Up) || Keyboard::isKeyPressed(Keyboard::Key::W) || Keyboard::isKeyPressed(Keyboard::Key::Space)) {
             if (!collidingUp && collidingDown && !jumping ) {
                 isIdle = false;
                 jumping = true;
@@ -137,13 +137,13 @@ public:
             }
         }
 
-        if (Keyboard::isKeyPressed(Keyboard::J)&&!isAttacking) {
+        if (Keyboard::isKeyPressed(Keyboard::Key::J) && !isAttacking) {
             isAttacking = true; 
             attackClock.restart(); 
             AttackAnimation.reset(); 
         }
         
-        if (Keyboard::isKeyPressed(Keyboard::R)) 
+        if (Keyboard::isKeyPressed(Keyboard::Key::R))
         {
             resetPosition();
         }
@@ -174,13 +174,13 @@ public:
         pos += vel;
         shape.setPosition(pos);
         WalkRight.setPosition(shape.getPosition().x + shape.getSize().x / 2,
-            shape.getPosition().y + shape.getSize().y / 2-WalkRight.getGlobalBounds().height/2+ 10);
+            shape.getPosition().y + shape.getSize().y / 2 - WalkRight.getGlobalBounds().size.y / 2 + 10);
 
         IdleSprite.setPosition(shape.getPosition().x + shape.getSize().x / 2,
-            shape.getPosition().y + shape.getSize().y / 2 - IdleSprite.getGlobalBounds().height / 2 + 10);
+            shape.getPosition().y + shape.getSize().y / 2 - IdleSprite.getGlobalBounds().size.y / 2 + 10);
 
         Attacksprite.setPosition(shape.getPosition().x + shape.getSize().x / 2,
-            shape.getPosition().y + shape.getSize().y / 2 - Attacksprite.getGlobalBounds().height / 2 + 10);
+            shape.getPosition().y + shape.getSize().y / 2 - Attacksprite.getGlobalBounds().size.y / 2 + 10);
 
         vel.x = 0;
         vel.y = 0;

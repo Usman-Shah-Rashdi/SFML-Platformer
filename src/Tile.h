@@ -18,7 +18,7 @@ public:
 	Tile(float x, float y,int size , Player & player)
 	{
 		pos = Vector2f(x, y);
-		body.setPosition(x, y);
+		body.setPosition({x, y});
 		body.setSize(Vector2f(size,size));
 		body.setFillColor(Color::Green);
 		body.setOutlineColor(Color::Black);
